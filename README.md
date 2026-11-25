@@ -75,7 +75,7 @@ $(go env GOPATH)/bin/httpx
 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/DeadShot.git
+git clone https://github.com/G01d3nW01f/DeadShot.git
 cd DeadShot
 ```
 
