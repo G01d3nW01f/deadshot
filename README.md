@@ -1,6 +1,3 @@
-申し訳ありません。今回は外側を含めて、最初から最後まで単一のコードブロックに統一します。以下の内容全体が未レンダリングのMarkdownソースです。
-
-\`\`\`markdown\
 \# DeadShot\
 \
 \*\*DeadShot\*\* is an internal domain intelligence tool written in Bash. It automates passive subdomain enumeration, DNS resolution, HTTP/HTTPS service discovery, and change detection between scan results.\
