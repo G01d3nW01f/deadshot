@@ -224,9 +224,7 @@ DeadShot is intended for authorized security assessments and internal domain mon
 - Snapshot comparison tracks DNS-resolved hostnames, not IP address changes or historical HTTP service changes.
 - A failed or incomplete scan should not be treated as an authoritative infrastructure change.
 
-## License
 
-Specify your preferred license before distributing this project.
 
 ## Disclaimer
 
